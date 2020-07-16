@@ -1,11 +1,11 @@
 {
   "name": "react-dropzone-s3-uploader",
-  "version": "1.1.0",
-  "description": "Drag and drop s3 file uploader via react-dropzone + react-s3-uploader",
+  "version": "1.1.1",
+  "description": "Drag and drop s3 file uploader via react-dropzone + react-s3-uploader-multipart",
   "main": "lib/index.js",
   "author": {
-    "name": "Gwilym Humphreys",
-    "url": "https://github.com/gwilymhumphreys"
+    "name": "Jon Neal",
+    "url": "https://github.com/jneal"
   },
   "license": "MIT",
   "repository": {
@@ -21,7 +21,7 @@
   "dependencies": {
     "prop-types": "^15.5.8",
     "react-dropzone": "^4.0.0",
-    "react-s3-uploader": "4.8.0"
+    "react-s3-uploader-multipart": "^4.8.2"
   },
   "devDependencies": {
     "babel": "^5.6.14",

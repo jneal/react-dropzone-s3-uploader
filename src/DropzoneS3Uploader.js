@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import S3Upload from 'react-s3-uploader/s3upload'
+import S3Upload from 'react-s3-uploader-multipart/s3upload'
 import Dropzone from 'react-dropzone'
 
 export default class DropzoneS3Uploader extends React.Component {
